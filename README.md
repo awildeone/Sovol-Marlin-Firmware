@@ -1,6 +1,8 @@
 # Sovol SV-01 - Firmware to Enable BlTouch and Filament Sensor
 Firmware and Marlin directory that works with BigTreeTech SKR Mini E3 v2.0 and enables filament sensor and BLtouch
 
+Once downloaded, rename *SV01 firmware with filament sensor and BLtouch.bin* to ***firmware.bin***
+
 ## Opening and Compiling:
 
 You will need to setup Visual Studio Code with platform.io and Marlin Auto Builder. You can follow the Teaching Tech guide on how to setup VS Code and open the correct directory.
