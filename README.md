@@ -1,4 +1,4 @@
-# Sovol-Marlin-Firmware
+# Sovol SV-01 - Firmware to Enable BlTouch and Filament Sensor
 Firmware and Marlin directory that works with BigTreeTech SKR Mini E3 v2.0 and enables filament sensor and BLtouch
 
 ## Opening and Compiling:
