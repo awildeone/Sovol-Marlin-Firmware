@@ -3,7 +3,7 @@ Firmware and Marlin directory that works with BigTreeTech SKR Mini E3 v2.0 and e
 
 Once the .bin is downloaded, remember to rename to ***firmware.bin***
 
-_Note: If you use the 128 PWM .bin file you still have a 24v fan installed, it will only run at 50% speed so you may have issues with part cooling._
+_Note: If you use the 128 PWM .bin file and you still have a 24v fan installed, it will only run at 50% speed so you may have issues with part cooling._
 
 ## Opening and Compiling:
 
