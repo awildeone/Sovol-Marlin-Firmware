@@ -1,7 +1,9 @@
 # Sovol SV-01 - Firmware to Enable BlTouch and Filament Sensor
 Firmware and Marlin directory that works with BigTreeTech SKR Mini E3 v2.0 and enables filament sensor and BLtouch
 
-Once downloaded, rename *SV01 firmware with filament sensor and BLtouch.bin* to ***firmware.bin***
+Once the .bin is downloaded, remember to rename to ***firmware.bin***
+
+_Note: If you use the 128 PWM .bin file you still have a 24v fan installed, it will only run at 50% speed so you may have issues with part cooling._
 
 ## Opening and Compiling:
 
